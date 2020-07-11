@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋 it's me Irham
 
-<!--
-**irhamdz/irhamdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**irhamdz/irhamdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<!--Here are some ideas to get you started:
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+🌱 I’m currently learning Python , Go and Node.js. Loves to implement DRY and KISS method.
+
+### 📫 Get in touch
+- Linkedin : https://www.linkedin.com/in/farizramadhan/
+- Personal site: https://irhamdzuhri.com/
+- Email: [irhamdzuhri@gmail.com](mailto:irhamdzuhri@gmail.com)
+- Facebook : https://web.facebook.com/irham.dz/
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31KBVZ)

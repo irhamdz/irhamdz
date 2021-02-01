@@ -14,4 +14,4 @@
 - Email: [irhamdzuhri@gmail.com](mailto:irhamdzuhri@gmail.com)
 - Facebook : https://web.facebook.com/irham.dz/
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31KBVZ)
+<!--[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31KBVZ) -->

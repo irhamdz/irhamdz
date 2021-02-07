@@ -16,4 +16,4 @@
 
 <!--[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31KBVZ) -->
 
-[![Irham's GitHub stats](https://github-readme-stats.vercel.app/api?username=irhamdz&show_icons=true&theme=dark)]
+![Irham's GitHub stats](https://github-readme-stats.vercel.app/api?username=irhamdz&show_icons=true&theme=dark&include_all_commits=true&count_private=true)

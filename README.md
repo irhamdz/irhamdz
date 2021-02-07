@@ -15,3 +15,5 @@
 - Facebook : https://web.facebook.com/irham.dz/
 
 <!--[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31KBVZ) -->
+
+[![Irham's GitHub stats](https://github-readme-stats.vercel.app/api?username=irhamdz&show_icons=true&theme=dark)]

@@ -8,6 +8,8 @@
 
 🌱 I’m currently learning Go, Python ,and Node.js. Loves to implement DRY and KISS method.
 
+⚡ Fun fact: I keep tracking my learning [here](https://github.com/irhamdz/learning)
+
 ### 📫 Get in touch
 - Linkedin : https://www.linkedin.com/in/irhamdz/
 - Personal site: https://irhamdzuhri.com/

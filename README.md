@@ -19,3 +19,5 @@
 <!--[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31KBVZ) -->
 
 ![Irham's GitHub stats](https://github-readme-stats.vercel.app/api?username=irhamdz&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+[![An image of @irhamdz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irhamdz)](https://holopin.io/@irhamdz)
